@@ -1,21 +1,9 @@
 # vue-flame
 
-> A Vue.js project
+A flame build with Vue.js inspired by [this tweet](https://twitter.com/jagarikin/status/894452278463053824).
 
-## Build Setup
+![demo.gif](https://user-images.githubusercontent.com/1957801/29250956-00e215e4-8087-11e7-8e0c-5bbde2762c6c.gif)
 
-``` bash
-# install dependencies
-npm install
+## Demo
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+https://edwardkenfox.github.io/vue-flame/
